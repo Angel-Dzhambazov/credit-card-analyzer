@@ -1,0 +1,284 @@
+foodShops:
+  - lidl
+  - kaufland
+  - billa
+  - cba
+  - HRANITELEN MAGAZIN
+  - HR. STOKI
+  - FANTASTIKO
+  - nrj go pazardjik
+  - dar-g
+  - promarket
+  - super foods gotse delchev
+  - kam market
+  - tarita
+  - magazin 345
+  - 345 ltd sofiya
+  - t-market
+  - avanti
+  - nikon-nk
+  - shop promo
+  - fantastico
+  - energi west pazardjik
+  - mlekarya 77 sofiya
+  - metro
+  - viatrakia
+restaurants:
+  - pizza palace
+  - pizza lab
+  - fest catering
+  - rhombus
+  - street bar sofia
+  - zoyashop
+  - glovo
+  - lotus bar
+  - mcdonalds
+  - bulgaria mall
+  - cinema city
+  - kino arena
+  - centralno foaye sofia
+  - via trakia food pazardzhik
+  - skara bar
+  - maymunarnik
+  - ozone bar&lounge
+  - mr.gyros
+  - nana foods
+  - kfc
+  - skapto
+  - luchoni
+  - wok food
+  - uok fuud
+  - salad box
+  - ikigai
+  - ailyakriya plovdiv
+  - fast five eood sofia
+  - bamboo ff sofiya
+  - takeaway.com
+  - pita gyras.
+  - food pro delivery
+  - radost
+  - raketa rakia bar
+  - romans eood
+  - krist 2021 eood
+  - cinemacity
+  - pita gyras sofiya bgr
+  - hepines eood varna
+  - green deli
+  - deli kafe
+  - taxi
+  - yellow
+  - sweet things bg
+  - freaky fries plovdiv
+  - sbx508014 bgmall sofiya bgr
+  - gospodin mesar sofiya
+  - foodpanda
+stroyMarket:
+  - krez
+  - praktiker
+  - domics
+  - altomi
+  - krasimir anadoliev
+  - bori-trading eood
+  - nag-so1 #nag
+  - gis-sofia eood #kadastar
+  - so raion triaditsa sofia
+dm-lilly:
+  - dm
+  - lilly
+technoShops:
+  - techmart
+  - technopolis
+  - emag.bg
+  - plasiko
+  - vidaxlbg
+  - electronic tehnology
+  - blendjet
+  - tehno komers
+krediti:
+  - tbi
+  - unicredit consumer
+  - paribas
+bolnici:
+  - ADZHIBADEM
+  - ACIBADEM
+  - medical center malchovcit
+  - sveta sofiya
+  - vita eood
+  - pdk klinika sofia
+  - медицински ценнтър малчов
+  - sinevo
+  - dental c-r
+  - mc 1st pediatric consult csofia bgr
+  - dkts sv. sofiya sofiya bgr
+  - dr stoyanova
+  - oskar klinik sofiya
+  - sky optic
+tok:
+  - cez
+  - evn
+  - elektrohold
+voda:
+  - sofiyska voda
+  - vik uslugi eood pazardzhik
+  - water supply pazardzhi
+apteki:
+  - apteka
+  - ARTPHARMA
+  - PHARMACY
+  - FARMACIA
+  - medeya
+  - farma
+  - remedium
+  - pharma center bg
+  - healthpharma
+  - propolis 015
+  - pharma choice eood
+gsm-internet:
+  - epay mobile
+  - a1
+  - telenor
+  - epay easypay.bg
+  - telecable
+gorivo:
+  - EKO
+  - VG OYL
+  - OMV
+  - oil
+  - shell
+  - kruiz
+  - gazprom
+  - petrol
+  - interspiyd
+  - diana ekspres oyl
+  - noves 2017
+  - avia sofia
+  - alpi-2010
+aliexpress:
+  - ALIEXPRESS
+samoleti:
+  - ryanair
+  - wizz
+detski-igrachki:
+  - komsed
+  - hippoland
+  - mams sofiya
+  - roon eood #vis vitalis
+  - purko
+  - jumbo
+  - hippo bg
+  - carrot ltd varna #Образователни карти за ранно детско развитие.
+  - musagena ood #MUSAGENA BOOKS and ART
+darvodelstvo:
+  - rosi eood
+  - leksgrup
+  - videnov
+  - ikea
+  - jusk
+  - jysk
+  - ted-bed
+  - ozone.bg
+  - balkan yug
+  - tedi pazardzhik
+  - hop mebeli
+podaraci:
+  - buketite
+speedy-econt:
+  - deyan belishki64
+  - speedy
+  - pz mehanoto
+  - spidi
+  - emil markov93
+  - econt
+zastrahovki-koli:
+  - lapos 13 eood pazardzhik
+  - digitoll my fibank
+  - ibis hotel sofia
+  - elit kar pazardzhik
+  - its tollpass
+  - avtochasti pazardzhik
+  - urban mobility center sofia bgr #sofia SKGT
+  - ngt sofia #avtochasti
+  - maxcar bg pirin
+  - vinetki
+  - api bg toll
+magazini za drehi:
+  - h & m
+  - f-58
+  - makaron.bg
+  - grabo.bg
+  - mat star
+  - sinsay
+  - booktrading
+  - new yorker
+  - kik textilien
+  - pepko
+  - pepco
+  - retail pazardzhik
+  - tema retail bg eood pazardzhik #LC Waikiki
+  - makaroon.bg
+  - tendenz
+  - el pi pi feshan balgari pazardzhik bgr
+  - lcw retail bg sofiya bgr
+  - td nap sofia
+vacation:
+  - bulgaria air
+  - oreshak
+  - pravec
+  - hisarya
+  - keramoti
+  - milonas diamantis neos marma gr
+  - dragoi nicolae nikolae asvestochori gr
+  - hisar
+  - nikiti
+  - snack-bar butterfly sinemorets
+  - thessalonike
+  - burgas
+  - asprovalta
+  - nuernberg
+  - slanchev b
+  - booking.com
+  - hotel palace
+  - mikel barakos
+  - thessaloniki
+  - metamorfosi
+  - articket.eu
+  - chrysoupoli
+  - kaspar schmauser
+  - eventim
+  - trip_bg
+  - beyond the walls fragkon
+  - uzr*skyline gaststatten u furth de
+  - ierissos
+  - chrisoupoli
+  - nurnberg
+  - sunny beac
+  - budapest
+zooStuff:
+  - zoomagazin ramona
+  - zooplus
+imot.bg:
+  - linos trading
+google:
+  - google
+random:
+
+  - transpress sofiya bgr
+  - s.f.m.p.10158 5 sofiya bgr
+  - free soul ltd sofia bgr
+  - amko
+  - gorublyane sofiya bgr
+teamSpendinsgForCash:
+  - p-k-v.a.44108 pazardzhik
+  - eurodisney vacan marne la vall fr
+  - meik-98
+  - warsteiner
+  - art 2000 ood sofiya
+  - art restorant dali
+  - cleanair.bg sofia bgr
+  - pazadjik 344 pazardzhik bgr
+  - pirin,kasa 1 sofia bgr
+  - lui aier,kasa 1 sofia bgr
+  - tsarigradsko shose 268 sofia bgr
+  - 4 ru desk 3 sofia bgr
+  - krona sofia bgr
+  - icdl
