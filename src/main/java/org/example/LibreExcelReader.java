@@ -69,7 +69,7 @@ public class LibreExcelReader {
     }
 
     public static void main(String[] args) {
-        String excelFilePath = "C:/Users/Svetlanka/Downloads/1y.xls";
+        String excelFilePath = "C:/Users/AngelDzhambazov/Downloads/all spendings my fibnk.xls" ;
         int currentRow = 0; // Track the current row index
         try {
             List<List<String>> excelData = readExcel(excelFilePath);
